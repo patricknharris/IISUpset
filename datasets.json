@@ -1,7 +1,6 @@
 [ 
 "data/simpsons/simpsons.json", 
 "data/movies/movies.json",
-"data/countries/countries.json", 
 "data/fruit/fruit.json", 
 "data/mutations/mutations20.json", 
 "data/socialgraph/socialgraph.json"
